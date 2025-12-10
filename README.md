@@ -12,7 +12,7 @@
 (1) <strong><span style="color:red;">프론트앤드</span></strong> : HTML, CSS, JavaScript, jQuery
 
 <br>
-(2) <strong><sapn style="color:#ff0000">백엔드</sapn></strong> : JAVA, python
+(2) <strong><sapn style="color:#ff0000;">백엔드</sapn></strong> : JAVA, python
 <br>
 기존 웹 과정을 통해 HTML, CSS, JavaScript, jQuery를 배웠으며 GPT를 통해 영단어사전 페이지도 제작해보았습니다.
 또한 백앤드에서 일부 언어를 배웠습니다. <br>
