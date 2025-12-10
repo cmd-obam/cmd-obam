@@ -14,8 +14,8 @@
 <h2>3. 기술</h2>
 
 ```diff
--(1)프론트엔드 : HTML, CSS, JavaScript, jQuery
--(2)백엔드 : JAVA, Python
+### -(1)프론트엔드 : HTML, CSS, JavaScript, jQuery
+### -(2)백엔드 : JAVA, Python
 ```
 
 기존 웹 과정을 통해 HTML, CSS, JavaScript, jQuery를 배웠으며 GPT를 통해 영단어사전 페이지도 제작해보았습니다.<br>
