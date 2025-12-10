@@ -10,6 +10,7 @@
 <hr>
 <h2>3. 기술</h2>
 (1) 프론트앤드 : HTML, CSS, JavaScript, jQuery
+<br>
 (2) 백엔드 : JAVA, python
 <br>
 기존 웹 과정을 통해 HTML, CSS, JavaScript, jQuery를 배웠으며 GPT를 통해 영단어사전 페이지도 제작해보았습니다.
