@@ -34,6 +34,4 @@
 +공부를 열심히해서 꼭! 멋진 개발자가 되겟습니다.
 ```
 
-<span style="color:red">빨간 글자</span>
-<span style="color:blue">파란 글자</span>
-<span style="color:#FFB800">노란 글자</span>
+
