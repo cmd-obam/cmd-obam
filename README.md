@@ -1,1 +1,3 @@
-<h1 style="font-size: 50px; text-align: center; color: red;"> Han's Project </h1>
+<div style="text-align:cetner">
+  <h1 style="font-size: 50px; color: red;"> Han's Project </h1>
+</div>
