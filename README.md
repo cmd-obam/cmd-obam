@@ -11,7 +11,7 @@
 
 <h2>3. 기술</h2>
 ```diff
-(1) - <strong>프론트앤드</strong> : HTML, CSS, JavaScript, jQuery
+(1) - 프론트앤드 : HTML, CSS, JavaScript, jQuery
 
 <br>
 (2) - <strong>백엔드</strong> : JAVA, python
