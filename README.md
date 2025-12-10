@@ -8,11 +8,13 @@
 (1) 취미는 개인적으로 게임과 예능 보는것을 좋아합니다. 요금 자주 즐겨하는 게임은 메이플랜드이고 예능은 나영석PD가 연출하는 예능들을 주로 보고있습니다.<br>
 (2) 특기는 중학생때부터 학생부 볼링선수로 7년간 생활했습니다. 현제는 자주 하지는 않지만 고등학교때 각종 대회에 출전하여 10여회 수상 경험이 있습니다.
 <hr>
+```diff
+```md
 <h2>3. 기술</h2>
-(1) <strong><span style="color:red;">프론트앤드</span></strong> : HTML, CSS, JavaScript, jQuery
+(1) - <strong>프론트앤드/strong> : HTML, CSS, JavaScript, jQuery
 
 <br>
-(2) <strong><span style="color:#ff0000;">백엔드</span></strong> : JAVA, python
+(2) - <strong>백엔드</strong> : JAVA, python
 <br>
 기존 웹 과정을 통해 HTML, CSS, JavaScript, jQuery를 배웠으며 GPT를 통해 영단어사전 페이지도 제작해보았습니다.
 또한 백앤드에서 일부 언어를 배웠습니다. <br>
