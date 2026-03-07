@@ -1,35 +1,48 @@
-<h1 align="center" style="font-size:50px;"> Han's Project</h1>
-<hr>
+<h1 align="center">안녕하세요, 사용자 경험을 코드로 설계하는 한찬우입니다 👨‍💻</h1>
 
-<h2>1. 자기소개</h2>
-안녕하세요 웹 과정을 공부한뒤 현제 오르미 부트갬프를 통해 프론트앤드 개발자로 성장중인 한찬우입니다.<br>
-잘 부탁드립니다.
-<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
-<h2>2. 취미,특기</h2>
-(1) 취미는 개인적으로 게임과 예능 보는것을 좋아합니다. 요금 자주 즐겨하는 게임은 메이플랜드이고 예능은 나영석PD가 연출하는 예능들을 주로 보고있습니다.<br>
-(2) 특기는 중학생때부터 학생부 볼링선수로 7년간 생활했습니다. 현제는 자주 하지는 않지만 고등학교때 각종 대회에 출전하여 10여회 수상 경험이 있습니다.
-<hr>
+---
 
-<h2>3. 기술</h2>
+### 🔍 About Me
+- 🎓 **이스트소프트 오르미 부트캠프**에서 프론트엔드 개발자로서의 역량을 키우고 있습니다.
+- 💡 10년간의 **고객 경험(CX) 노하우**를 바탕으로, 사용자가 진정으로 필요로 하는 UI/UX가 무엇인지 고민합니다.
+- 🏅 7년간의 **볼링 선수 생활**을 통해 얻은 끈기와 집중력으로 복잡한 로직 문제도 끝까지 해결합니다.
 
-```diff
--(1)프론트엔드 : HTML, CSS, JavaScript, jQuery
--(2)백엔드 : JAVA, Python
--(3)tool: Git,vs code
-```
+---
 
-기존 웹 과정을 통해 HTML, CSS, JavaScript, jQuery를 배웠으며 GPT를 통해 영단어사전 페이지도 제작해보았습니다.<br>
-또한 백앤드에서 일부 언어를 배웠습니다.<br><br>
+### 🛠 Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript(ES6+), React, jQuery]
+- **Tools**: VS Code, Git, GitHub]
+- **Reference**: MDN Web Docs 및 W3Schools를 통해 표준화된 코드를 지향합니다.]
 
-아직 프론트앤드에 실력이 많이 부족하여 공부중에 있으며 최종 목표는 일부 사이트 클론코딩입니다.
+---
 
-<br>
-</hr>
+### 💻 Projects
+- **Team Project: [flowdash]**
+  - 팀원들과 협업하여 대시보드 형태의 서비스를 구축하며 React의 컴포넌트 구조를 익혔습니다.
+- **Personal Project: 영단어 사전 페이지**
+  - GPT와 협업하여 실제 동작하는 사전 기능을 구현하며 API 활용의 기초를 다졌습니다.
+- **Portfolio: 개인 자기소개 페이지**
+  - HTML/CSS를 활용해 나를 표현하는 첫 번째 웹 페이지를 구축했습니다.]
 
+---
 
-<h2>4. 마무리</h2>
+### 🔥 Goals
+- [ ] 주요 서비스 사이트 클론 코딩 완수
+- [ ] React를 활용한 대규모 상태 관리 프로젝트 경험
+- [ ] 기술로 고객의 불편함을 해결하는 '실전형' 개발자로 성장
 
-```diff
-+공부를 열심히해서 꼭! 멋진 개발자가 되겟습니다.
-```
+---
+
+### 💬 Contact
+- **Email**: ja3297@naver.com
+- **Blog**: (만약 운영 중인 블로그가 있다면 링크를 넣어주세요!)
+
+<p align="right">최종 수정일: 2026. 03. 07.</p>
