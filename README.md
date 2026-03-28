@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Emotion-D26AC2?style=flat-square&logo=emotion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-433A31?style=flat-square&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
@@ -18,19 +20,32 @@
 ---
 
 ### 🛠 Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript(ES6+), React, jQuery]
-- **Tools**: VS Code, Git, GitHub]
-- **Reference**: MDN Web Docs 및 W3Schools를 통해 표준화된 코드를 지향합니다.]
+- **Frontend**: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Emotion](https://img.shields.io/badge/Emotion-D26AC2?style=flat-square&logo=emotion&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433A31?style=flat-square&logo=react&logoColor=61DAFB) jQuery
+- **Tools**: VS Code, Git, GitHub
+- **Focus**: 🛒 **이커머스 프로젝트**를 통해 실무적인 **REST API 연동** 및 **전역 상태 관리(Zustand)**를 깊이 있게 학습 중입니다.
 
 ---
 
 ### 💻 Projects
-- **Team Project: [flowdash]**
-  - 팀원들과 협업하여 대시보드 형태의 서비스를 구축하며 React의 컴포넌트 구조를 익혔습니다.
-- **Personal Project: 영단어 사전 페이지**
-  - GPT와 협업하여 실제 동작하는 사전 기능을 구현하며 API 활용의 기초를 다졌습니다.
-- **Portfolio: 개인 자기소개 페이지**
-  - HTML/CSS를 활용해 나를 표현하는 첫 번째 웹 페이지를 구축했습니다.]
+
+#### 👥 Team Project (진행 중): [NatureGlow] 뷰티 이커머스 서비스
+> React와 Emotion을 활용한 고도화된 뷰티 쇼핑몰 구축 프로젝트입니다.
+
+- **Role**: Contributor (팀원)
+- **Key Contributions**:
+  - 🧩 **공통 컴포넌트 개발**: 프로젝트 전반에 사용되는 **Button**, **Input** 컴포넌트를 설계하여 생산성 및 디자인 일관성 향상
+  - 🛒 **장바구니(Cart) 페이지**: 복잡한 주문 로직이 포함된 장바구니 페이지 전체 구현
+  - 💾 **상태 유지 로직**: **Zustand Persist** 기술을 적용하여 새로고침 시에도 장바구니 데이터가 초기화되지 않고 유지되도록 구현
+
+#### 👥 Team Project: [flowdash (TODO 리스트)](https://cmd-obam.github.io/MY-flowdash/)
+- **Role**: Contributor / 디자인 유지보수 및 개인화 로직(닉네임, 인삿말, 테마) 구현
+
+#### 👤 Personal Project: 영단어 사전 페이지
+- GPT와 협업하여 실제 동작하는 사전 기능을 구현하며 API 활용의 기초를 다졌습니다.
+
+#### 📄 Portfolio: 개인 자기소개 페이지
+- HTML, CSS, React, Emotion을 활용해 나를 표현하는 첫 번째 웹 사이트를 구축 중입니다.
+
 
 ---
 
@@ -43,6 +58,6 @@
 
 ### 💬 Contact
 - **Email**: ja3297@naver.com
-- **Blog**: (만약 운영 중인 블로그가 있다면 링크를 넣어주세요!)
+- **Blog**:
 
-<p align="right">최종 수정일: 2026. 03. 07.</p>
+<p align="right">최종 수정일: 2026. 03. 29.</p>
