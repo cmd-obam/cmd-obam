@@ -20,7 +20,7 @@
 ---
 
 ### 🛠 Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript, Jqury React Zustand, Emotion
+- **Frontend**: HTML5, CSS3, JavaScript, jQuery, React Zustand, Emotion
 - **Tools**: VS Code, Git, GitHub
 - **Focus**: 🛒 **이커머스 프로젝트**를 통해 실무적인 **REST API 연동** 및 **전역 상태 관리(Zustand)**를 깊이 있게 학습 중입니다.
 - **MS Office**: MS Office 365 + **Copilot** (Excel, Word, PowerPoint), GPT-4, Cursor
