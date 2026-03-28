@@ -23,10 +23,14 @@
 - **Frontend**: HTML5, CSS3, JavaScript, Jqury React Zustand, Emotion
 - **Tools**: VS Code, Git, GitHub
 - **Focus**: 🛒 **이커머스 프로젝트**를 통해 실무적인 **REST API 연동** 및 **전역 상태 관리(Zustand)**를 깊이 있게 학습 중입니다.
+- **MS Office**: MS Office 365 + **Copilot** (Excel, Word, PowerPoint), GPT-4, Cursor
 
 ---
 
 ### 💻 Projects
+
+#### 📄 [New Portfolio: 리액트 자기소개 페이지 (제작 중)]
+> **React**와 **Emotion**을 도입하여 컴포넌트 기반 설계와 고도화된 스타일링을 적용 중인 최신 포트폴리오 사이트입니다.
 
 #### 👥 Team Project (진행 중): [NatureGlow] 뷰티 이커머스 서비스
 > React와 Emotion을 활용한 고도화된 뷰티 쇼핑몰 구축 프로젝트입니다.
@@ -43,8 +47,8 @@
 #### 👤 Personal Project: 영단어 사전 페이지
 - GPT와 협업하여 실제 동작하는 사전 기능을 구현하며 API 활용의 기초를 다졌습니다.
 
-#### 📄 Portfolio: 개인 자기소개 페이지
-- HTML, CSS, React, Emotion을 활용해 나를 표현하는 첫 번째 웹 사이트를 구축 중입니다.
+#### 📄 [Legacy Portfolio: HTML/CSS 자기소개 페이지](https://cmd-obam.github.io/Portfolio/)
+> 웹 표준의 기초인 **HTML**과 **CSS**만을 활용하여 초기 레이아웃 설계 능력을 기른 첫 번째 포트폴리오입니다.
 
 
 ---
