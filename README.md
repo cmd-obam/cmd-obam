@@ -20,7 +20,7 @@
 ---
 
 ### 🛠 Tech Stack
-- **Frontend**: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Emotion](https://img.shields.io/badge/Emotion-D26AC2?style=flat-square&logo=emotion&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433A31?style=flat-square&logo=react&logoColor=61DAFB) jQuery
+- **Frontend**: HTML5, CSS3, JavaScript, Jqury React Zustand, Emotion
 - **Tools**: VS Code, Git, GitHub
 - **Focus**: 🛒 **이커머스 프로젝트**를 통해 실무적인 **REST API 연동** 및 **전역 상태 관리(Zustand)**를 깊이 있게 학습 중입니다.
 
