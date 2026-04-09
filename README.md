@@ -31,7 +31,7 @@
 
 ### 💻 Projects
 
-#### 📄 [New Portfolio: 리액트 자기소개 페이지 ([제작 중](https://cmd-obam.github.io/New-Portfolio/))]
+#### 📄 [리엑트 자기소개 페이지 (포트폴리오) ](https://cmd-obam.github.io/New-Portfolio/)
 > **React**와 **Emotion**을 도입하여 컴포넌트 기반 설계와 고도화된 스타일링을 적용 중인 최신 포트폴리오 사이트입니다.
 
 #### 👥 Team Project (진행 중): [NatureGlow] 뷰티 이커머스 서비스 https://cmd-obam.github.io/mini-ecommerce/
