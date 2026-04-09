@@ -24,6 +24,7 @@
 - **Frontend**: HTML5, CSS3, JavaScript, jQuery, React Zustand, Emotion
 - **Tools**: VS Code, Git, GitHub
 - **Focus**: 🛒 **이커머스 프로젝트**를 통해 실무적인 **REST API 연동** 및 **전역 상태 관리(Zustand)**를 깊이 있게 학습 중입니다.
+- **AI Tolls** : Chat GPT , Google Gemini, Cursor (바이브코딩)
 - **MS Office**: MS Office 365 + **Copilot** (Excel, Word, PowerPoint), GPT-4, Cursor
 
 ---
